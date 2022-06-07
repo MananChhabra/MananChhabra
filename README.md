@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MananChhabra
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently looking for an internship
+- 🌱 I’m currently looking for an opportunity
 - 📫 How to reach me : E-mail - mananchhabra1402@gmail.com
 
 <!---
